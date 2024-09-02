@@ -1,0 +1,101 @@
+{
+  "refreshToken": "1//05OEk1_h1u8oiCgYIARAAGAUSNwF-L9IrPZEdBzpBXKAuuqYm3gnQO4F5ecP9rGsRAEs2Gsr1gHXxqVQl0kBkWpniZy9UEhgOp_0",
+  "accessToken": "ya29.a0AcM612y5CxkSXVO0G5H46Zgkim3X4lSfvzn5IMi5t2kMLUSLM3F7DqA6iBWxpl7Le1Pwx-jPp_MtOS4GHqqk1A6ANpikfCczYSUqp1FvEDyfwJrqDy_i_h5mL4zU4TYiTU10ZuHiDJJQlp2p8Xap15VBfyWm8kdGoDLVtEPWaCgYKAS0SARISFQHGX2MihVb-IL2_TItXJFk1erZ4Jg0175",
+  "accessTokenExpiryTime": 1725243937234,
+  "validToken": true,
+  "vaultId": "1VLSdppVP8rqCEjn-FM7o3ZT4y1m_yl4d",
+  "filesList": [
+    {
+      "mimeType": "application/json",
+      "id": "1EtQq6TzTySa92-Zq6aWfTkrO6cYJUOvX",
+      "name": "VtM The Jackal/Aurelio 'The Jackal' Faustini (He).md",
+      "modifiedTime": "2024-09-02T00:26:33.918Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1O493q2E3ib_7jYsDA3SACecfeY4-CyEt",
+      "name": "VtM The Jackal/Relationships/Violet Aurum (She).md",
+      "modifiedTime": "2024-09-02T00:26:27.936Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1IDaVbfWWBSxbGw_mpGmoe8zVHJGSblrS",
+      "name": "VtM The Jackal/Relationships/William Faustini (He They).md",
+      "modifiedTime": "2024-09-02T00:23:44.944Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1andKbPg8feyGZx-3EG6zrRcmdm23P_N4",
+      "name": "VtM The Jackal/Relationships/The Basilisk (They).md",
+      "modifiedTime": "2024-09-02T00:23:40.992Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1dQ-Q5Ls5GGoEmEa50Bk1YoV64_-M1X3V",
+      "name": "VtM The Jackal/Relationships/Dante 'Goliath' Ravenwood (He).md",
+      "modifiedTime": "2024-09-02T00:23:34.000Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1nh9hHccg8JwqKvE_YbwqNflFp4-NmKTZ",
+      "name": "VtM The Jackal/Images/Pasted image 20240901180819.png",
+      "modifiedTime": "2024-09-02T00:22:23.780Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1P2_tk3sjxF7__nSOiHa8OYm01fDWWnM0",
+      "name": "VtM The Jackal/Images/Pasted image 20240901180704.png",
+      "modifiedTime": "2024-09-02T00:22:23.762Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "19HAO5UnKw-gGC35BuSnw8mSlXGqBeZYc",
+      "name": "VtM The Jackal/Images/Pasted image 20240901180724.png",
+      "modifiedTime": "2024-09-02T00:22:23.761Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1ZV8JL_y_2i1xeBQkVSk6wgkIF94X0oYS",
+      "name": "VtM The Jackal/Images/Pasted image 20240901180802.png",
+      "modifiedTime": "2024-09-02T00:22:23.760Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1IZ4uM1qrVz3jiC7AGRnW1TCG3kInej0t",
+      "name": "VtM The Jackal/Images/Pasted image 20240901180024.png",
+      "modifiedTime": "2024-09-02T00:22:23.760Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1N2PSB-EeeuZW2Y8gEIp6XZxutylmrAGD",
+      "name": "VtM The Jackal/Images/Pasted image 20240901180826.png",
+      "modifiedTime": "2024-09-02T00:22:23.752Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1eYuZepZltJv34Om6Yq2fiZieiq9DRvRV",
+      "name": "VtM The Jackal/Images/Pasted image 20240901180857.png",
+      "modifiedTime": "2024-09-02T00:22:23.751Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1D2YJrYh6tyDRLAMbn87Yw2A6TA5xgSSx",
+      "name": "VtM The Jackal/Relationships/Adine Harison (She).md",
+      "modifiedTime": "2024-09-02T00:22:23.749Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1zamdsqX3LG0SuEd8ACggjE8M6knJ6kJO",
+      "name": "VtM The Jackal/Relationships/Empirio Faustini (He).md",
+      "modifiedTime": "2024-09-02T00:22:23.749Z"
+    }
+  ],
+  "vaultInit": true,
+  "rootFolderId": "1Oc9lHFuyAqYbQmmwKw0sy2w1K5QmHV_i",
+  "refresh": false,
+  "refreshTime": "5",
+  "autoRefreshBinaryFiles": "1",
+  "errorLoggingToFile": false,
+  "verboseLoggingToFile": false,
+  "blacklistPaths": []
+}
