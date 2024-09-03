@@ -11,4 +11,4 @@ lastSync: Sun Sep 01 2024 18:23:40 GMT-0600 (Mountain Daylight Time)
 	- Was Aurelio's informant
 	- Now that Aurelio has been gone, he doesn't know Briar and has never seen them as a vampire, making it all the harder for him. 
 
-#Character  #Corvid 
+#Character  #Corvid #Kindred 

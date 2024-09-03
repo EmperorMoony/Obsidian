@@ -11,4 +11,4 @@ lastSync: Sun Sep 01 2024 18:23:44 GMT-0600 (Mountain Daylight Time)
 
 
 
-#Character  #Corvid 
+#Character  #Corvid #Mortal 
